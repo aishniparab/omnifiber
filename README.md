@@ -1,4 +1,4 @@
-# omnifiber
+# Omnifiber Design Editor
 Live here: https://turingtestaishni.github.io/omnifiber/
 
 To run locally via:
